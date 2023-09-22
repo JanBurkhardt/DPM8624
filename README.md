@@ -1,5 +1,5 @@
 # Introduction
-This is a library for controlling an DPM8624 powersupply.
+This is a library to controll a DPM8624 powersupply.
 
 For testing there is a charger.py script. With that script you can charge Batteries for testing.
 
