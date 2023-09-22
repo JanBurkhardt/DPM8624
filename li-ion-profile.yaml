@@ -1,0 +1,9 @@
+name: "Li-Ion profile"
+
+profile:
+  max_voltage: 4.2 #volt
+  max_current: 0.2 #ampere
+  max_temperature: 40 # degree celcius
+  max_charging_time: 3600 #seconds
+  shutoff_threshold: 0.5 #percent
+  capacity: 2200 #mAh
